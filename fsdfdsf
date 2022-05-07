@@ -1,0 +1,29 @@
+[33mcommit 7b6d1f716c600e841a4f03e3f66c0d4fe1e90da6[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: csillagpeti <csillagpeti@gmail.com>
+Date:   Sat May 7 12:47:17 2022 +0200
+
+    Set up init HTML DOM
+
+[33mcommit e5f3a45f90a63f3764f5a985e1a02c6eedbb02fd[m
+Author: csillagpeti <csillagpeti@gmail.com>
+Date:   Sat May 7 12:13:13 2022 +0200
+
+    Set up hero
+
+[33mcommit 9efdaa6a131f39efd624415bd5894c1438b43843[m
+Author: csillagpeti <csillagpeti@gmail.com>
+Date:   Sat May 7 12:03:07 2022 +0200
+
+    Create header
+
+[33mcommit 0d23ec8530faa0c020886e5282c2e841cafb1f48[m
+Author: csillagpeti <csillagpeti@gmail.com>
+Date:   Sat May 7 11:51:37 2022 +0200
+
+    Setup project structure
+
+[33mcommit 0100b3f325158764e80b51b4ced238ee2a81af85[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: csillagpeti <csillagpeti@users.noreply.github.com>
+Date:   Sat May 7 11:38:33 2022 +0200
+
+    Initial commit
