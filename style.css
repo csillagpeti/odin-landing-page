@@ -2,6 +2,11 @@ html{
     font-family: 'Roboto', sans-serif;
 }
 
+body{
+    display: flex;
+    flex-direction: column;
+}
+
 .header{
     display: flex;
 }
@@ -14,4 +19,5 @@ html{
 .hero{
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 }
