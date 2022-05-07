@@ -2,7 +2,16 @@ html{
     font-family: 'Roboto', sans-serif;
 }
 
+.header{
+    display: flex;
+}
+
 .headerlogo{
     font-size: 36px;
     font-weight: bolder;
+}
+
+.hero{
+    display: flex;
+    flex-wrap: wrap;
 }
